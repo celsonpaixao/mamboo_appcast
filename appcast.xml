@@ -5,9 +5,20 @@
     <link>https://mamboo.co.ao/</link>
     <description>Mamboo super app de entregas</description>
 
+    <item>
+      <title>Versão 2.5.0</title>
+      <description>Melhorias e correções de bugs</description>
+      <pubDate>Thu, 24 Oct 2024 12:00:00 +0000</pubDate>
+      <enclosure 
+        url="https://meudominio.com/downloads/meu_app_v3.0.0.apk"
+        sparkle:version="3.0.0"
+        sparkle:os="android"
+        length="10485760"
+        type="application/octet-stream" />
+    </item>
 
     <item>
-      <title>Versão 3.0.0</title>
+      <title>Versão 2.0.0</title>
       <description>Melhorias e correções de bugs</description>
       <pubDate>Thu, 24 Oct 2024 12:00:00 +0000</pubDate>
       <enclosure 
